@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db63ec-d805-46b7-9ce7-16c029fb1488" name="Changes" comment="sup">
-      <change beforePath="$PROJECT_DIR$/l/Ui.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/l/main.py" beforeDir="false" />
+    <list default="true" id="80db63ec-d805-46b7-9ce7-16c029fb1488" name="Changes" comment="test1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -33,7 +37,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="7c45f726-10e9-46c1-8b27-87761e47f166" />
-        <option name="url" value="https://github.com/Addorax/gg.git" />
+        <option name="url" value="https://github.com/Addorax/123.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -52,7 +56,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "68adfa75"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -154,11 +158,51 @@
       <option name="project" value="LOCAL" />
       <updated>1734103983881</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test1">
+      <option name="closed" value="true" />
+      <created>1734104226769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734104226769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test1">
+      <option name="closed" value="true" />
+      <created>1734104252756</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734104252756</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sup" />
-    <option name="LAST_COMMIT_MESSAGE" value="sup" />
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
 </project>
